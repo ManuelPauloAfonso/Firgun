@@ -17,6 +17,7 @@ html{
 body {
     -webkit-font-smoothing: antialiased;
     font-family: 'Poppins', sans-serif;
+    background-color: #F3F4F4;
 }
 body input, textarea, button{
     font-family: 'Poppins', sans-serif;
